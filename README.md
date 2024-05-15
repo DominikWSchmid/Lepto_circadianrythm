@@ -1,4 +1,4 @@
-This github repository contains the phyloseq object "CellarBats_ps_min100reads.rds" saved as RDS file and the skipt "CellarBats_Analysis.R" containing all the critical analyses steps performed in R for the manuscript Schmid et al. (unpublished). 
+This github repository contains the phyloseq object "Lepto_ps_filtered_100reads.rds" saved as RDS file and the skipt "Lepto_Analysis_github.R" containing all the critical analyses steps performed in R for the manuscript Schmid et al. (unpublished). 
 
 The work describes an experiment performed to a) assess whether diurnal microbial rhythms are detectable in captive bats and b) to see whether shifting feeding times alters/shifts microbial responses/oscillations
 
